@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a39ae3a9-a5d6-4bc9-a475-77ed5ed3320f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XSWHDcPlNzzYGogPfu3pZK59qa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Quote">
+    <configuration name="Cryptocurrency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crypto_market.crypto.Cryptocurrency" />
+      <module name="Market" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="crypto_market.crypto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Quote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crypto_market.quote.Quote" />
+      <module name="Market" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="crypto_market.quote.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Quote" />
+        <item itemvalue="Application.Cryptocurrency" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a39ae3a9-a5d6-4bc9-a475-77ed5ed3320f" name="Default Changelist" comment="" />
+      <created>1581039885575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581039885575</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="830" y="273" key="#com.intellij.ide.util.MemberChooser" timestamp="1581044404867">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="830" y="273" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112/2560.207.1920.1040/4480.194.1920.1040@0.0.2048.1112" timestamp="1581044404867" />
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom" timestamp="1581044445566">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.207.1920.1040/4480.194.1920.1040@0.0.2048.1112" timestamp="1581044445566" />
+    <state width="2005" height="305" key="GridCell.Tab.0.center" timestamp="1581044445566">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.center/0.0.2048.1112/2560.207.1920.1040/4480.194.1920.1040@0.0.2048.1112" timestamp="1581044445566" />
+    <state width="2005" height="305" key="GridCell.Tab.0.left" timestamp="1581044445566">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.left/0.0.2048.1112/2560.207.1920.1040/4480.194.1920.1040@0.0.2048.1112" timestamp="1581044445566" />
+    <state width="2005" height="305" key="GridCell.Tab.0.right" timestamp="1581044445566">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.right/0.0.2048.1112/2560.207.1920.1040/4480.194.1920.1040@0.0.2048.1112" timestamp="1581044445566" />
+    <state x="721" y="382" key="com.intellij.ide.util.TipDialog" timestamp="1581040395557">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="721" y="382" key="com.intellij.ide.util.TipDialog/0.0.2048.1112/2560.207.1920.1040/4480.194.1920.1040@0.0.2048.1112" timestamp="1581040395557" />
+  </component>
+</project>
