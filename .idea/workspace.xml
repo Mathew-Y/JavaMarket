@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a39ae3a9-a5d6-4bc9-a475-77ed5ed3320f" name="Default Changelist" comment="" />
+    <list default="true" id="a39ae3a9-a5d6-4bc9-a475-77ed5ed3320f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Market.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Market.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Market/crypto_market/crypto/Cryptocurrency.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Market/crypto_market/crypto/Cryptocurrency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crypto_market/crypto/Cryptocurrency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crypto_market/crypto/Cryptocurrency.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XSWHDcPlNzzYGogPfu3pZK59qa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,14 +32,31 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/json-simple-1.1.1.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Quote">
+  <component name="RunManager" selected="Application.Market">
     <configuration name="Cryptocurrency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="crypto_market.crypto.Cryptocurrency" />
       <module name="Market" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="crypto_market.crypto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Market" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crypto_market.market.Market" />
+      <module name="Market" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="crypto_market.market.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,6 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Market" />
         <item itemvalue="Application.Quote" />
         <item itemvalue="Application.Cryptocurrency" />
       </list>
@@ -72,29 +99,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="830" y="273" key="#com.intellij.ide.util.MemberChooser" timestamp="1581044404867">
+    <state x="830" y="273" key="#com.intellij.ide.util.MemberChooser" timestamp="1581174089726">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="830" y="273" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112/2560.207.1920.1040/4480.194.1920.1040@0.0.2048.1112" timestamp="1581044404867" />
-    <state width="2005" height="305" key="GridCell.Tab.0.bottom" timestamp="1581044445566">
+    <state x="830" y="273" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112/2560.207.1920.1040/4480.194.1920.1040@0.0.2048.1112" timestamp="1581174089726" />
+    <state x="805" y="312" key="FileChooserDialogImpl" timestamp="1581175204630">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.207.1920.1040/4480.194.1920.1040@0.0.2048.1112" timestamp="1581044445566" />
-    <state width="2005" height="305" key="GridCell.Tab.0.center" timestamp="1581044445566">
+    <state x="805" y="312" key="FileChooserDialogImpl/0.0.2048.1112/2560.207.1920.1040/4480.194.1920.1040@0.0.2048.1112" timestamp="1581175204630" />
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom" timestamp="1581176358451">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="305" key="GridCell.Tab.0.center/0.0.2048.1112/2560.207.1920.1040/4480.194.1920.1040@0.0.2048.1112" timestamp="1581044445566" />
-    <state width="2005" height="305" key="GridCell.Tab.0.left" timestamp="1581044445566">
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.207.1920.1040/4480.194.1920.1040@0.0.2048.1112" timestamp="1581176358451" />
+    <state width="2005" height="305" key="GridCell.Tab.0.center" timestamp="1581176358450">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="305" key="GridCell.Tab.0.left/0.0.2048.1112/2560.207.1920.1040/4480.194.1920.1040@0.0.2048.1112" timestamp="1581044445566" />
-    <state width="2005" height="305" key="GridCell.Tab.0.right" timestamp="1581044445566">
+    <state width="2005" height="305" key="GridCell.Tab.0.center/0.0.2048.1112/2560.207.1920.1040/4480.194.1920.1040@0.0.2048.1112" timestamp="1581176358450" />
+    <state width="2005" height="305" key="GridCell.Tab.0.left" timestamp="1581176358450">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="305" key="GridCell.Tab.0.right/0.0.2048.1112/2560.207.1920.1040/4480.194.1920.1040@0.0.2048.1112" timestamp="1581044445566" />
-    <state x="721" y="382" key="com.intellij.ide.util.TipDialog" timestamp="1581040395557">
+    <state width="2005" height="305" key="GridCell.Tab.0.left/0.0.2048.1112/2560.207.1920.1040/4480.194.1920.1040@0.0.2048.1112" timestamp="1581176358450" />
+    <state width="2005" height="305" key="GridCell.Tab.0.right" timestamp="1581176358451">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="721" y="382" key="com.intellij.ide.util.TipDialog/0.0.2048.1112/2560.207.1920.1040/4480.194.1920.1040@0.0.2048.1112" timestamp="1581040395557" />
+    <state width="2005" height="305" key="GridCell.Tab.0.right/0.0.2048.1112/2560.207.1920.1040/4480.194.1920.1040@0.0.2048.1112" timestamp="1581176358451" />
+    <state x="505" y="132" key="SettingsEditor" timestamp="1581175220984">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="505" y="132" key="SettingsEditor/0.0.2048.1112/2560.207.1920.1040/4480.194.1920.1040@0.0.2048.1112" timestamp="1581175220984" />
+    <state x="721" y="382" key="com.intellij.ide.util.TipDialog" timestamp="1581045385916">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="721" y="382" key="com.intellij.ide.util.TipDialog/0.0.2048.1112/2560.207.1920.1040/4480.194.1920.1040@0.0.2048.1112" timestamp="1581045385916" />
   </component>
 </project>
